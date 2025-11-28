@@ -55,10 +55,7 @@ Tenho apenas **14 anos**, mas estudo programação todos os dias e já finalizei
 ---
 
 ## 📈 **GitHub Stats**
-<p align="center">
-  <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api?username=nicolasdev14&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=nicolasdev14&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 ---
 
 ## 💬 **Sobre mim**
