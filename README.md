@@ -72,7 +72,7 @@ Gosto de criar experiências bonitas, rápidas e funcionais, sempre com base em 
 
 ## 📬 **Contato**
 📩 **Email profissional:** nicolasdev14@gmail.com  
-💬 **Discord:** seu_user_aqui (me envie que adiciono!)  
+💬 **Discord:** itadori7zx__43161 (me envie que adiciono!)  
 📁 **Portfólio (em breve!)**
 
 ---
