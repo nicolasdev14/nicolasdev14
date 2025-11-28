@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=250&section=header&text=Nicolas%20Dev&fontSize=60&fontColor=ffffff&animation=twinkling"/>
+</p>
 
-<!--
-**nicolasdev14/nicolasdev14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Olá! Eu sou o **Nicolas**
+Desenvolvedor Front-end focado em criar interfaces modernas, responsivas e bem estruturadas.  
+Tenho apenas **14 anos**, mas estudo programação todos os dias e já finalizei diversos projetos práticos (Rocketseat, cursos e projetos autorais).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 **Habilidades que domino**
+<img align="right" height="180" src="https://i.imgur.com/SME2gqR.png">
+
+- **HTML5 semântico**
+- **CSS3 moderno** (Flexbox, Grid, responsividade)
+- **JavaScript** (manipulação do DOM e lógica)
+- **Git & GitHub**
+- **Boas práticas e organização de código**
+- Otimização e estruturação de layouts
+
+---
+
+## 📘 **Estudando no momento**
+- **React.js** (para evoluir no front e criar interfaces mais robustas)
+
+---
+
+## 🧩 **Projetos que já desenvolvi**
+🔹 Projetos da Rocketseat  
+🔹 Landing pages responsivas  
+🔹 Interfaces com animações  
+🔹 Mini sistemas com JavaScript  
+🔹 Páginas completas para estudo
+
+> Quer ver todos os projetos?  
+👉 **Acesse meu repositório completo aqui:**  
+**https://github.com/nicolasdev14?tab=repositories**
+
+---
+
+## 🛠️ **Tecnologias & Ferramentas**
+<div style="display: flex; gap: 10px;">
+  
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+</div>
+
+---
+
+## 📈 **GitHub Stats**
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicolasdev14&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasdev14&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💬 **Sobre mim**
+Sou um jovem apaixonado por tecnologia e programação.  
+Estudo todos os dias para me tornar um desenvolvedor completo — começando pelo front-end.
+
+Gosto de criar experiências bonitas, rápidas e funcionais, sempre com base em boas práticas.
+
+---
+
+## 📬 **Contato**
+📩 **Email profissional:** nicolasdev14@gmail.com  
+💬 **Discord:** seu_user_aqui (me envie que adiciono!)  
+📁 **Portfólio (em breve!)**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=200&section=footer"/>
+</p>
