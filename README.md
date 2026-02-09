@@ -56,6 +56,12 @@ Tenho apenas **14 anos**, mas estudo programação todos os dias e já finalizei
 
 ## 📈 **GitHub Stats**
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laracmiranda/laracmiranda/output/pacman-contribution-graph.svg">
+</picture>
+
 ---
 
 ## 💬 **Sobre mim**
