@@ -7,7 +7,7 @@
 
 # 👋 Olá! Eu sou o **Nicolas**
 Desenvolvedor Front-end focado em criar interfaces modernas, responsivas e bem estruturadas.  
-Tenho apenas **14 anos**, mas estudo programação todos os dias e já finalizei diversos projetos práticos (Rocketseat, cursos e projetos autorais).
+Tenho apenas **15 anos**, mas estudo programação todos os dias e já finalizei diversos projetos práticos (Rocketseat, cursos e projetos autorais).
 
 ---
 
